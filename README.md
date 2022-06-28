@@ -62,7 +62,7 @@
 |14|19.탐욕 알고리즘의 이해(2)|Greedy Algorithsm|[ATM](https://www.acmicpc.net/problem/11399)|
 |15|20.enqueue, dequeue, priority queue|enqueue, dequeue, priority queue|이론|
 |16|Part5.나동빈의 패캠 제작 문제 해설 1|-|[전구](https://www.acmicpc.net/problem/21918)|
-|16|Part5.나동빈의 패캠 제작 문제 해설 1|-||[소수 최소 공배수](https://www.acmicpc.net/problem/21919)|
+|16|Part5.나동빈의 패캠 제작 문제 해설 1|-|[소수 최소 공배수](https://www.acmicpc.net/problem/21919)|
 |17|Part5.나동빈의 패캠 제작 문제 해설 1|-|[서로소 평균](https://www.acmicpc.net/problem/21920)|
 |17|Part5.나동빈의 패캠 제작 문제 해설 1|-|[블로그](https://www.acmicpc.net/problem/21921)|
 |18|Part5.나동빈의 패캠 제작 문제 해설 2|시뮬레이션, 구현|[학부 연구생 민상](https://www.acmicpc.net/problem/21922)|
